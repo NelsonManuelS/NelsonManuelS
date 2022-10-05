@@ -6,7 +6,7 @@
 
 <h2 dir="auto"><a id="user-content-meus-contatos" class="anchor" aria-hidden="true" href="#meus-contatos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Meus contatos:</h2>
 
-[![Blog](https://img.shields.io/website?label=Programador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)]()
+[![Blog](https://img.shields.io/website?label=Programador.com&style=for-the-badge&url=https://programador.com/)]()
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 <img src="https://camo.githubusercontent.com/5595226b14a75d75b85feb7a9acf86986a6e0811bafb45a8da855edc60000bce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d3144413146322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
@@ -39,12 +39,7 @@
 
 
 
-<img src="https://camo.githubusercontent.com/a4a4a017a5d519d7c4ce2a3cd3d2194fb7af4b1ca424850784565007c2acc7d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MYSQL" data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/bac5c7f45fe7c116b5f8c9d61c4611b31f635301a841bf8dcf1b89b8fcfa4824/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6666636132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b" alt="FIREBASE" data-canonical-src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/932123bf240349f3785c02228b113b06299079e8740f480c767e8335fd6d752a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3037343035453f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465" alt="SQLITE" data-canonical-src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/260a209982c56c72532782201af3ab3f5967844708cf64e851d8eaa820eb187e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66742d3636363636363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f6674266c6f676f436f6c6f723d7768697465" alt="MICROSOFT" data-canonical-src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/adfd8188c10cefc9545f6582f980e80953d0f57a559c4b5e2214a956a7b08489/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3531324244343f7374796c653d666f722d7468652d6261646765266c6f676f3d646f746e6574266c6f676f436f6c6f723d7768697465" alt=".NET" data-canonical-src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/dd433625a6e00049c26f08143705ff9e32d5da44f503f1be133664b11e37e34b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465" alt="C#" data-canonical-src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" style="max-width: 100%;">
+
 ## 
 
 
