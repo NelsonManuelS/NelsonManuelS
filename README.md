@@ -83,7 +83,7 @@
 <a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/bac5c7f45fe7c116b5f8c9d61c4611b31f635301a841bf8dcf1b89b8fcfa4824/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6666636132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b" alt="FIREBASE" data-canonical-src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" style="max-width: 100%;"></a>
 <a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/62bcfb2406498e7e2b632a4b9683d201f398b8fac8d768106eebcc18b4656c73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f6c6f676f3d706f737467726573716c266c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765" alt="PostgreSQL Badge" data-canonical-src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&amp;logoColor=fff&amp;style=for-the-badge" style="max-width: 100%;"></a></p>
 
-![NelsonManuelS GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelson&show_icons=true&theme=radical)
+![NelsonManuelS GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 ## 
