@@ -102,40 +102,9 @@
 
 <h2 dir="auto"><a id="user-content-minhas-atividades" class="anchor" aria-hidden="true" href="#minhas-atividades"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Minhas atividades:</h2>
 
-![NelsonManuelS GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![NelsonManuelSGitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 Gosto de Desenvolver Algoritimos em computação e interface Gráfoca, desenvolver tecnologia para revolucionar a maneira como vivemos através da linguagem de programação.
 
-
-<div class="pl-lg-3 col-6 border-lg-left">
-            
-
-  <div class="js-activity-overview-graph-container" data-percentages="{&quot;Commits&quot;:100,&quot;Issues&quot;:0,&quot;Pull requests&quot;:0,&quot;Code review&quot;:0}">
-    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="js-activity-overview-graph-spinner mx-auto mt-4 anim-rotate d-none">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke"></circle>
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
-</svg>
-    <svg class="js-activity-overview-graph mx-auto d-block" xmlns="http://www.w3.org/2000/svg" width="285" height="244">
-      <g transform="translate(-18.4849853515625, -39.016357421875)">
-        <path class="js-highlight-blob" stroke-linejoin="round" fill="#40c463" stroke="#40c463" opacity="0.5" stroke-width="7" d="M169.5,169.5 L169.5,169.5 L169.5,169.5 L81.68294525146484,169.5 z"></path>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-x-axis activity-overview-axis" x1="77.68294525146484" y1="169.5" x2="261.31705474853516" y2="169.5"></line>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-y-axis activity-overview-axis" x1="169.5" y1="77.68294525146484" x2="169.5" y2="261.31705474853516"></line>
-        <ellipse class="activity-overview-point js-highlight-top-ellipse d-none" rx="3" ry="3" stroke-width="2" fill="white"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-right-ellipse d-none" rx="3" ry="3" stroke-width="2" fill="white"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-bottom-ellipse d-none" rx="3" ry="3" stroke-width="2" fill="white"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-left-ellipse" rx="3" ry="3" stroke-width="2" fill="white" cx="79.68294525146484" cy="169.5"></ellipse>
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-top" dx="169.5" dy="51.682945251464844">&nbsp;</text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-top" dx="169.5" dy="67.68294525146484">Code review</text>
-        <text text-anchor="start" class="activity-overview-percentage js-highlight-percent-right" dy="157.5" dx="285.5595680475235">&nbsp;</text>
-        <text text-anchor="start" class="text-small activity-overview-label js-highlight-label-right" dy="173.5" dx="271.31705474853516">Issues</text>
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-bottom" dx="169.5" dy="263.31705474853516">&nbsp;</text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-bottom" dx="169.5" dy="279.31705474853516">Pull requests</text>
-        <text text-anchor="end" class="activity-overview-percentage js-highlight-percent-left" dy="168" dx="56.66666793823242">100%</text>
-        <text text-anchor="end" class="text-small activity-overview-label js-highlight-label-left" dy="184" dx="65.68294525146484">Commits</text>
-      </g>
-    </svg>
-  </div>
-
-          </div>
 
