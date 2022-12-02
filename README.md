@@ -104,5 +104,5 @@
 ![NelsonManuelS GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonManuelS&show_icons=true&theme=radical)
 
 
-Gosto de Desenvolver Algoritimos em computação e interface Gráfoca, desenvolver tecnologia para revolucionar a maneira como vivemos através da linguagem de programação.
+Gosto de Desenvolver Algoritimos de computação e interface Gráfoca, desenvolver tecnologia para revolucionar a maneira como vivemos através da linguagem de programação.
 
