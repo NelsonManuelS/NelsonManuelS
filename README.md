@@ -37,7 +37,7 @@
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d38377e104f9baf7f110039792653a08eac51a25ab1d029737e8208bb6afea14/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f742d6e65742f646f742d6e65742d706c61696e2d776f72646d61726b2e737667"><img align="center" alt="dotnet" src="https://camo.githubusercontent.com/d38377e104f9baf7f110039792653a08eac51a25ab1d029737e8208bb6afea14/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f742d6e65742f646f742d6e65742d706c61696e2d776f72646d61726b2e737667" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" style="max-width: 100%;"></a>
 
 
-<h2 dir="auto"><a id="user-content-my-social-networks" class="anchor" aria-hidden="true" href="#my-social-networks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>|My social networks</h2>
+<h2 dir="auto"><a id="user-content-my-social-networks" class="anchor" aria-hidden="true" href="#my-social-networks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Outras Tecnologias</h2>
 <div dir="auto">
 <a href="https://www.instagram.com/crislaine_paulapp/?hl=bg" rel="nofollow"><img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/crislaine-paula-pereira-pacheco-944a40165/" rel="nofollow"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -46,17 +46,6 @@
 </article>
   </div>
        
-        
-    
-    
-    
-    
-        
-        
-    
-
-
-
 
 <p dir="auto"><a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/19be198b22407b49a4ea491b2900b85e09d859dbb2801e3f0c165a84b66e1506/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6172696144422d3030333534353f7374796c653d666f722d7468652d6261646765266c6f676f3d6d617269616462266c6f676f436f6c6f723d7768697465" alt="MARIADB" data-canonical-src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=mariadb&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/a4a4a017a5d519d7c4ce2a3cd3d2194fb7af4b1ca424850784565007c2acc7d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MYSQL" data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -66,8 +55,7 @@
 <a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/62bcfb2406498e7e2b632a4b9683d201f398b8fac8d768106eebcc18b4656c73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f6c6f676f3d706f737467726573716c266c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765" alt="PostgreSQL Badge" data-canonical-src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&amp;logoColor=fff&amp;style=for-the-badge" style="max-width: 100%;"></a></p>
 
         
-<p dir="auto"><a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
+
 
   
 <p dir="auto"><a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/260a209982c56c72532782201af3ab3f5967844708cf64e851d8eaa820eb187e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66742d3636363636363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f6674266c6f676f436f6c6f723d7768697465" alt="MICROSOFT" data-canonical-src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -105,7 +93,8 @@
 
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-
+<p dir="auto"><a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
 
