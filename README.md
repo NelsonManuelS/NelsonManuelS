@@ -50,12 +50,6 @@
 <a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/7a19f2a3ab341edfb4a75b804d4bc46833a24ca9a815fae3010facd326f6bf60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c2d436f72655f69375f313074682d3030373143353f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c266c6f676f436f6c6f723d7768697465" alt="COREI7" data-canonical-src="https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&amp;logo=intel&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/dea7a52d5b150e57b812cadd5b95920559d1057fc831c73afd43a41b8bf8b6d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e56494449412d525458323036302d3736423930303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e7669646961266c6f676f436f6c6f723d7768697465" alt="NVIDIA2060" data-canonical-src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" style="max-width: 100%;"></a></p>
 
-
-
-<h2 dir="auto"><a id="user-content-minhas-atividades" class="anchor" aria-hidden="true" href="#minhas-atividades"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Minhas atividades:</h2>
-
-![NelsonManuelS GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonManuelS&show_icons=true&theme=radical)
-
 ## Meus contatos:
 
 [![Blog](https://img.shields.io/website?label=programador.front-end&style=for-the-badge&url=https://programador/)]()
@@ -68,6 +62,13 @@
   <a href="https://www.linkedin.com/jobs/view/4325860494/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+<h2 dir="auto"><a id="user-content-minhas-atividades" class="anchor" aria-hidden="true" href="#minhas-atividades"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Minhas atividades:</h2>
+
+![NelsonManuelS GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonManuelS&show_icons=true&theme=radical)
+
+
 
 [![Blog](https://aleen42.github.io/badges/src/stackoverflow.svg)]()
 
