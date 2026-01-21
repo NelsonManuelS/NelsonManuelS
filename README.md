@@ -4,22 +4,6 @@
 ## Oiii eu sou a Nelson Mário Manuel, Sou Desenvolvedor de sistemas, Trabalho com diversas tecnologias!
  
   ##
-  
-## Meus contatos:
-
-[![Blog](https://img.shields.io/website?label=programador.front-end&style=for-the-badge&url=https://programador/)]()
-<div> 
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href=" " target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = " "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/jobs/view/4325860494/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-[![Blog](https://aleen42.github.io/badges/src/stackoverflow.svg)]()
-
 ## Tecnologias que eu uso:
 
 <div style="display: inline_block"><br>
@@ -72,6 +56,20 @@
 
 ![NelsonManuelS GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonManuelS&show_icons=true&theme=radical)
 
+## Meus contatos:
+
+[![Blog](https://img.shields.io/website?label=programador.front-end&style=for-the-badge&url=https://programador/)]()
+<div> 
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href=" " target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = " "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/jobs/view/4325860494/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+[![Blog](https://aleen42.github.io/badges/src/stackoverflow.svg)]()
 
 Gosto de Desenvolver Algoritmos de computação e interface Gráfica, desenvolver tecnologia para revolucionar a maneira como vivemos através da linguagem de programação.
 
