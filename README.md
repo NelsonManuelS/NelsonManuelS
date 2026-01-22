@@ -52,7 +52,7 @@
 
 ## Meus contatos:
 
-[![Blog](https://img.shields.io/website?label=programador.front-end&style=for-the-badge&url=https://programador/)]()
+[![Blog](https://img.shields.io/website?label=OutSystems_developer|Reactive.Web&style=for-the-badge&url=https://programador/)]()
 <div> 
   <a href=" " target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
