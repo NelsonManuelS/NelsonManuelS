@@ -30,6 +30,8 @@
 
 ## Ambiente de desenvolvimento: 
 
+
+
 <p dir="auto"><a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/0c8f314dee10cdedb10a63f8558e9c760de378821671517d19a19fef29362f8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77696e646f77732d2532333030373844362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="WINDOWS11" data-canonical-src="https://img.shields.io/badge/windows-%230078D6.svg?&amp;style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/2888d50dd936863bf0f5f5fa590f21e02b62fbb788ab496c0c193240bfa1404a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52414d2d333247422d2532333030373143352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465" alt="RAM" data-canonical-src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&amp;style=for-the-badge&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/7a19f2a3ab341edfb4a75b804d4bc46833a24ca9a815fae3010facd326f6bf60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c2d436f72655f69375f313074682d3030373143353f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c266c6f676f436f6c6f723d7768697465" alt="COREI7" data-canonical-src="https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&amp;logo=intel&amp;logoColor=white" style="max-width: 100%;"></a>
