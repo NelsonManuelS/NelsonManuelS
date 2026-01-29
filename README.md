@@ -35,6 +35,7 @@
 
 ## Meus contatos: 
 
+[![Blog](https://aleen42.github.io/badges/src/stackoverflow.svg)]()
 <div> 
   <a href=" " target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -49,7 +50,7 @@
 ![NelsonManuelS GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonManuelS&show_icons=true&theme=radical)
 
 
-[![Blog](https://aleen42.github.io/badges/src/stackoverflow.svg)]()
+
 
 Gosto de Desenvolver Algoritmos de computação e interface Gráfica, desenvolver tecnologia para revolucionar a maneira como vivemos através da linguagem de programação.
 
