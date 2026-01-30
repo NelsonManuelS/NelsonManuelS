@@ -24,6 +24,7 @@
 
 ## Sistema Operacionais: 
 
+
 <a href="https://github.com/jeffersonsimaogoncalves"><img src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/jeffersonsimaogoncalves"><img src="https://camo.githubusercontent.com/3807c61c1dc9a204b96e6aa77bb39c731d79496e68e353d8e51c2527697e6b0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61632532306f732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61636f73266c6f676f436f6c6f723d463046304630" alt="MAC OS" data-canonical-src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&amp;logo=macos&amp;logoColor=F0F0F0" style="max-width: 100%;"></a>
 <a href="https://github.com/jeffersonsimaogoncalves"><img src="https://camo.githubusercontent.com/34690dc14d81268850c4cea85d849425390b2661f4e5846ee97f663f8bf991aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d79656c6c6f773f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465" alt="Linux" data-canonical-src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&amp;logo=linux&amp;logoColor=white" style="max-width: 100%;"></a>
