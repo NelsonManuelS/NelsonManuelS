@@ -2,7 +2,6 @@
 
 ## Oiii eu sou a Nelson Mário Manuel, Sou Desenvolvedor de sistemas, Trabalho com diversas tecnologias!
   ##
-  
 ## Tecnologias que eu uso:
 
 <div style="display: inline_block"><br>
