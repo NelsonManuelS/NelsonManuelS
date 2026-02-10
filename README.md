@@ -31,7 +31,6 @@
 <a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/7a19f2a3ab341edfb4a75b804d4bc46833a24ca9a815fae3010facd326f6bf60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c2d436f72655f69375f313074682d3030373143353f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c266c6f676f436f6c6f723d7768697465" alt="COREI7" data-canonical-src="https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&amp;logo=intel&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/NelsonManuelS"><img src="https://camo.githubusercontent.com/dea7a52d5b150e57b812cadd5b95920559d1057fc831c73afd43a41b8bf8b6d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e56494449412d525458323036302d3736423930303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e7669646961266c6f676f436f6c6f723d7768697465" alt="NVIDIA2060" data-canonical-src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" style="max-width: 100%;"></a></p>
 
-
 ## Meus contatos: 
 
 [![Blog](https://aleen42.github.io/badges/src/stackoverflow.svg)]()
