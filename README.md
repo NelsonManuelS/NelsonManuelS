@@ -15,6 +15,8 @@
 
 
 
+
+
 ## Outras Tecnologias: 
 
 [![Blog](https://img.shields.io/website?label=OutSystems_developer|Reactive.Web&style=for-the-badge&url=https://programador/)]()
